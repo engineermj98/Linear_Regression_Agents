@@ -1,2 +1,2 @@
 # LinearRegressionAgents
-Simple and Multiple Linear Regression with JADE Java
+Simple and Multiple Linear Regression with JADE Java. Artificial Intelligence
